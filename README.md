@@ -1,6 +1,6 @@
 Privacy Policy for The Lone Trader
 By ~Boom Tomato
-Contact: wowbrando.db@gmail.com
+Contact: stone.red.studio@gmail.com
 
 1. Data Collection & Storage
 We respect your privacy. The Lone Trader does not collect, store, or process any personal data. The game does not track your activities, require user accounts, or store progress outside of your local device.
@@ -18,4 +18,4 @@ Since The Lone Trader does not collect or store personal data, there is no need 
 If our data practices change, we will update this policy accordingly. Any modifications will be reflected here to ensure transparency.
 
 6. Contact Us
-For any privacy-related inquiries, you can reach us at wowbrando.db@gmail.com.
+For any privacy-related inquiries, you can reach us at stone.red.studio@gmail.com.
